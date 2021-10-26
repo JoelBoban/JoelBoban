@@ -1,6 +1,11 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+Profile.+Hey+My+name+is+Joel+Boban.+I+am+a+student.+I+am+interested+but+a+starting+noob.+Learning+python.+Happy+to+see+you+here+🤗)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+Profile.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey+My+name+is+Joel+Boban.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+a+student.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+interested+but+a+starting+noob.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Learning+python.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Happy+to+see+you+here+🤗)
 
 </p>
 
