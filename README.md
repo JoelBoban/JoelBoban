@@ -1,16 +1,14 @@
+## 👋 Hi, I’m Joel, Welcome to my GitHub Profile
+- **📚 High School Student**
+- **🌱 Learning Python, HTML and Java**
+- **🤔 I’m currently looking for a helper**
 
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+Profile.)
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey+My+name+is+Joel+Boban.)
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+a+student.)
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+interested+but+a+starting+noob.)
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Learning+python.)
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Happy+to+see+you+here+🤗)
-
+# My Social Profiles
+<p align="center">
+<a href="https://www.instagram.com/joel_boban14><img alt="Instagram" src="https://img.shields.io/badge/joel_boban14-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://t.me/joe_noob"><img alt="Telegram" src="https://img.shields.io/badge/joe_noob-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
-
-
-
-
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=joelbobanoffline&theme=highcontrast" align="center">
+</p>
