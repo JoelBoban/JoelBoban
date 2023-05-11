@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Joel, Welcome to my GitHub Profile
 - **📚 High School Student**
 - **🌱 Learning Python, HTML and Java**
-- **🤔 I’m currently looking for a helper**
+
 
 # My Social Profiles
 <p>
